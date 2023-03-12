@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rubickking04" target="blank"><img src="https://img.shields.io/twitter/follow/rubickking04?logo=twitter&style=for-the-badge" alt="rubickking04" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel, Vue JS, Tailwind CSS,RESTful API**
+- 🌱 I’m currently learning **Laravel, Vue JS, Tailwind CSS, Laravel RESTful API**
 
 - 💬 Ask me about **Laravel, Vue, Bootstrap, Web Development, Frontend and Backend**
 
