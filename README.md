@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **rubickking04@gmail.com**
 
-- ⚡ Fun fact **I'm cute**
+- ⚡ Fun fact **I'm cute*
+
+- [Al-Fhaigar Usman](https://www.github.com/rubickking04)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
