@@ -98,6 +98,8 @@
 <br clear="both">
 
 
+<a href="https://gitroll.io/profile/uz67D5mBvFTNSsCeZEqe1UY8Xgzm2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uz67D5mBvFTNSsCeZEqe1UY8Xgzm2" alt="GitRoll Profile Badge"/></a>
+
 ###
 
 <div align="left">
@@ -116,8 +118,6 @@
 </div>
 
 ###
-
-<a href="https://gitroll.io/profile/uz67D5mBvFTNSsCeZEqe1UY8Xgzm2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uz67D5mBvFTNSsCeZEqe1UY8Xgzm2" alt="GitRoll Profile Badge"/></a>
 <!---
 rubickking04/rubickking04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
