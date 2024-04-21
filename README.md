@@ -97,9 +97,6 @@
 </div>
 
 ###
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/rubickking04/rubickking04/output/snake.svg" alt="Snake animation" />
 
 ###
