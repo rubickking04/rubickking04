@@ -2,12 +2,11 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rubickking04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=rubickking04&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rubickking04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=rubickking04&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo"  />
   <img width="12" />
@@ -81,9 +80,23 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="35" alt="pycharm logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="35" alt="webstorm logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="35" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="35" alt="google logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="35" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="35" alt="webpack logo"  />
 </div>
 
 ###
@@ -93,6 +106,7 @@
 <img src="https://raw.githubusercontent.com/rubickking04/rubickking04/output/snake.svg" alt="Snake animation" />
 
 ###
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/al-fhaigar-usman-108812193/" target="_blank">
