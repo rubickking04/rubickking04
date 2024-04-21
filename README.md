@@ -113,7 +113,7 @@
 <img src="https://raw.githubusercontent.com/rubickking04/rubickking04/output/snake.svg" alt="Snake animation" />
 
 ###
-  <a href="https://gitroll.io/profile/uz67D5mBvFTNSsCeZEqe1UY8Xgzm2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uz67D5mBvFTNSsCeZEqe1UY8Xgzm2" alt="GitRoll Profile Badge"/></a>
+  <a href="https://gitroll.io/profile/uz67D5mBvFTNSsCeZEqe1UY8Xgzm2" target="_blank" height="50"><img src="https://gitroll.io/api/badges/profiles/v1/uz67D5mBvFTNSsCeZEqe1UY8Xgzm2" alt="GitRoll Profile Badge"/></a>
 
 <!--<div align="center">
   <a href="https://www.linkedin.com/in/al-fhaigar-usman-108812193/" target="_blank">
