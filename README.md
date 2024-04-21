@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋, I'm Al-Fhaigar Usman!</h2>
 
 ###
-
+<h3 align="left">🛠 Languages, Frameworks and Tools</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo"  />
   <img width="12" />
