@@ -75,8 +75,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="35" alt="pycharm logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="35" alt="webstorm logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="35" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
@@ -88,10 +86,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="35" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="35" alt="webpack logo"  />
 </div>
 
 ###
