@@ -1,6 +1,8 @@
 <h2 align="left">Hi 👋, I'm Al-Fhaigar Usman!</h2>
-###
+
 <h3 align="left"> 🧑‍💻 About Me: </h3>
+
+<p align="left">I'm from Zamboanga City, Phillippines 7000</p>
 
 
 ###
