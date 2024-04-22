@@ -1,8 +1,8 @@
 <h2 align="left">Hiiii , I'm Al-Fhaigar Usman!👋</h2>
-<h4 align="left">I'm a Fullstack Developer from Zamboanga City, Phillippines 7000</h4>
+
 
 <h3 align="left"> 🧑‍💻 About Me: </h3>
-
+<h4 align="left">I'm a Student from Zamboanga Peninsula Polytechnic State University - College of Information and Computing Science and A Fullstack Developer from Zamboanga City, Phillippines 7000</h4>
 
 
 
