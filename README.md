@@ -1,5 +1,5 @@
 <h2 align="left">Hiiii , I'm Al-Fhaigar Usman!👋</h2>
-<h6 align="left">I'm a Fullstack Developer from Zamboanga City, Phillippines 7000</h6>
+<h4 align="left">I'm a Fullstack Developer from Zamboanga City, Phillippines 7000</h4>
 
 <h3 align="left"> 🧑‍💻 About Me: </h3>
 
