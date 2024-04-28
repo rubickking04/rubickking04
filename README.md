@@ -1,16 +1,13 @@
-<h2 align="left">Hello There!!! 👋</h2>
+<h2 align="left">Hello There! 👋</h2>
 
 <h3 align="left"> 🧑‍💻 About Me: </h3>
 <p align="left">I'm Al (he/him) - I'm a 4th year BSIT Student from Zamboanga Peninsula Polytechnic State University - College of Information and Computing Science and A Fullstack Developer from Zamboanga City, Phillippines 7000</p>
-
-
 
 ###
 <h3 align="left">🔥 My Stats: </h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rubickking04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=rubickking04&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rubickking04&locale=en&hide_title=false&layout=compact&langs_count=5&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -115,8 +112,8 @@
 ###
 <br clear="both">
 <a href="https://gitroll.io/profile/uz67D5mBvFTNSsCeZEqe1UY8Xgzm2" target="_blank" height="50"><img src="https://gitroll.io/api/badges/profiles/v1/uz67D5mBvFTNSsCeZEqe1UY8Xgzm2" alt="GitRoll Profile Badge"/></a>
-
-  ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=22vl3bkkrt5bsebefegy4kr3a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
+<br clear="both">
+![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=22vl3bkkrt5bsebefegy4kr3a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
 
 
 
