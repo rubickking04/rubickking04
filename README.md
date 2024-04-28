@@ -1,4 +1,4 @@
-<h2 align="left">Hello There! 👋</h2>
+<h2 align="left">Hello There!!! 👋</h2>
 
 <h3 align="left"> 🧑‍💻 About Me: </h3>
 <p align="left">I'm Al (he/him) - I'm a 4th year BSIT Student from Zamboanga Peninsula Polytechnic State University - College of Information and Computing Science and A Fullstack Developer from Zamboanga City, Phillippines 7000</p>
@@ -109,7 +109,7 @@
 
 ###
 
-<br clear="both" style="margin-top: -250px">
+<br clear="both" >
 <img src="https://raw.githubusercontent.com/rubickking04/rubickking04/output/snake.svg" alt="Snake animation" />
 
 ###
