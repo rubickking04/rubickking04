@@ -113,7 +113,9 @@
 <br clear="both">
 <a href="https://gitroll.io/profile/uz67D5mBvFTNSsCeZEqe1UY8Xgzm2" target="_blank" height="50"><img src="https://gitroll.io/api/badges/profiles/v1/uz67D5mBvFTNSsCeZEqe1UY8Xgzm2" alt="GitRoll Profile Badge"/></a>
 <br clear="both">
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=22vl3bkkrt5bsebefegy4kr3a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
+
+
+  ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=22vl3bkkrt5bsebefegy4kr3a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
 
 
 
