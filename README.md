@@ -1,7 +1,4 @@
-<h2 align="left">Hello There!  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) </h2>
-
-  Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Al-Fhaigar Usman
-
+<h2 align="left">Hello There! 👋</h2>
 
 <h3 align="left"> 🧑‍💻 About Me: </h3>
 <p align="left">I'm Al (he/him) - I'm a 4th year BSIT Student from Zamboanga Peninsula Polytechnic State University - College of Information and Computing Science and A Fullstack Developer from Zamboanga City, Phillippines 7000</p>
