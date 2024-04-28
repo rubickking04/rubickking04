@@ -109,7 +109,7 @@
 
 ###
 
-<br clear="both" style="margin-top: -250px;">
+<br clear="both" style="margin-top: -25px;">
 <div align="center>
   <img src="https://raw.githubusercontent.com/rubickking04/rubickking04/output/snake.svg" alt="Snake animation" />
 </div>
