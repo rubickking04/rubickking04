@@ -110,9 +110,7 @@
 ###
 
 <br clear="both" >
-<div align="center>
-  <img src="https://raw.githubusercontent.com/rubickking04/rubickking04/output/snake.svg" alt="Snake animation" />
-</div>
+<img src="https://raw.githubusercontent.com/rubickking04/rubickking04/output/snake.svg" alt="Snake animation" />
 
 ###
 <br clear="both">
