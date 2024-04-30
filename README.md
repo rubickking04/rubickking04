@@ -111,7 +111,7 @@
 
 ###
 <br clear="both">
-<a href="https://gitroll.io/profile/uz67D5mBvFTNSsCeZEqe1UY8Xgzm2" target="_blank" height="50"><img src="https://gitroll.io/api/badges/profiles/v1/uz67D5mBvFTNSsCeZEqe1UY8Xgzm2" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/uz67D5mBvFTNSsCeZEqe1UY8Xgzm2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uz67D5mBvFTNSsCeZEqe1UY8Xgzm2" alt="GitRoll Profile Badge"/></a>
 <br clear="both">
 
 
