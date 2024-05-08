@@ -1,7 +1,7 @@
 <h2 align="left">Hello There! 👋</h2>
 
 <h3 align="left"> 🧑‍💻 About Me: </h3>
-<p align="left">I'm Al (he/him) - I'm a 4th year BSIT Student from Zamboanga Peninsula Polytechnic State University - College of Information and Computing Science and A Fullstack Developer from Zamboanga City, Phillippines 7000</p>
+<p align="left">I'm Al (async/await) - I'm a 4th year BSIT Student from Zamboanga Peninsula Polytechnic State University - College of Information and Computing Science and A Fullstack Developer from Zamboanga City, Phillippines 7000</p>
 
 ###
 <h3 align="left">🔥 My Stats: </h3>
@@ -111,11 +111,11 @@
 
 ###
 <br clear="both">
-<a href="https://gitroll.io/profile/uz67D5mBvFTNSsCeZEqe1UY8Xgzm2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uz67D5mBvFTNSsCeZEqe1UY8Xgzm2" alt="GitRoll Profile Badge"/></a>
+<!-- <a href="https://gitroll.io/profile/uz67D5mBvFTNSsCeZEqe1UY8Xgzm2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uz67D5mBvFTNSsCeZEqe1UY8Xgzm2" alt="GitRoll Profile Badge"/></a> -->
 <br clear="both">
 
 
-  ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=22vl3bkkrt5bsebefegy4kr3a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
+<!--  ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=22vl3bkkrt5bsebefegy4kr3a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false) -->
 
 
 
