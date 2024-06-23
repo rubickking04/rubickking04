@@ -63,6 +63,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ionic/3880FF" height="35" alt="ionic logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/capacitor/capacitor-plain.svg" height="35" alt="ionic logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="35" alt="bash logo"  />
